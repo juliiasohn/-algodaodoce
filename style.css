@@ -7,11 +7,12 @@ body {
 }
 p {
   text-align: center;
+  font-size: 20px;
 }
 strong {
   color: #FF1493
 }
 
 #missao {
-  font-size: 25px;
+  font-size: 30px;
 }
