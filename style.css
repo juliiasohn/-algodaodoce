@@ -38,7 +38,9 @@ strong {
 
 .beneficios {
   background: #FCA3B7;
-
+  padding: 20px
+}
+  
 ul {
   display: inline-block;
   vertical-align: top;
