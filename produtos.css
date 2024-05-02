@@ -2,6 +2,12 @@ header {
     background: #FFC0CB;
 }
 
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
 nav {
     postion: absolute;
     top: 110px; 
